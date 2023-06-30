@@ -11,8 +11,8 @@ RecyclerView, REST API (nasaapi), Retrofit, Hilt, Glide, Paging library, Clean A
 ## Скриншоты
 
 <div align="center">
-  <img src="https://github.com/rayViSs/MarsPhotosFromRover/blob/main/app/src/main/res/screenshots/Screenshot_20230630_172608.png" alt="mainscreen" width="400">
-  <img src="https://github.com/rayViSs/MarsPhotosFromRover/blob/main/app/src/main/res/screenshots/Screenshot_20230630_172643.png" alt="screen_details" width="400">
+  <img src="https://github.com/rayViSs/MarsPhotosFromRover/blob/main/app/src/main/res/drawable/screen_main.jpg" alt="mainscreen" width="400">
+  <img src="https://github.com/rayViSs/MarsPhotosFromRover/blob/main/app/src/main/res/drawable/screen_second.jpg" alt="screen_details" width="400">
 </div>
 
 ## Возможности
