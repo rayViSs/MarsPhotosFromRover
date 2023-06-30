@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarsRoverPhotosLoaderRecyclerView</string>
+
+    <string name="camera_full_name">Camera: %1$s</string>
+    <string name="data_earth">Data: %1$s</string>
+    <string name="sol">Sol: %1$s</string>
+    <string name="mars_photo_id">Id: %1$s</string>
+    <string name="rover_name">Rover: %1$s</string>
+</resources>
